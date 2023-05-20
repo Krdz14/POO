@@ -1,1 +1,3 @@
 # POO
+I consider that it would be interesting to create a program where it could be analyze the management of a clothing app, where we would have the clients who are subscribed to the store where we would get payment method, name, email. Another class would be the ordes of each client, which would include sizes, how many items have to be sent and the code of this items. Finally we would have the control of the stock of the store, where it would be included the code of the items, the quatity of how many items are left and the sizes left.
+The main reason of choosing this problem is because I personally consider myself a person that buys clothes too frequently and it would be nice to challenge myself to see how the apps I used are being made.
